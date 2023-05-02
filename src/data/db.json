@@ -1,0 +1,20 @@
+{
+  "users": [
+    "default",
+    "user1"
+  ],
+  "messages": [
+    {
+      "from": "user1",
+      "to": "default",
+      "message": "Hello world",
+      "date": "2023-05-02T09:38:14.646Z"
+    },
+    {
+      "from": "default",
+      "to": "user1",
+      "message": "OK!",
+      "date": "2023-05-02T09:39:14.646Z"
+    }
+  ]
+}
